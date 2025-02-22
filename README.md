@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Rock-Paper-Scissors
-=======
-Rock-Paper-Scissors Project
->>>>>>> be1c3fe (Initial commit of Rock-Paper-Scissors project)
+
 ## Introduction. This project is a simple implementation of the classic game Rock Paper Scissors. The game is played entirely in the console, where the user competes against the computer.
 
 ## How to Play
